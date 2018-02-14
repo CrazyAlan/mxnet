@@ -20,8 +20,8 @@
 # install libraries for mxnet's python package on ubuntu
 
 
-pip2 install easydict
-pip3 install easydict
+pip2 install easydict scipy scikit-image
+pip3 install easydict scipy scikit-image
 
 pip2 install -U scikit-learn
 pip3 install -U scikit-learn
